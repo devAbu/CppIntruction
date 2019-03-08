@@ -39,7 +39,7 @@ int main()
     
     //cout<< "DOBRODOSLI!!!";
     
-    //zadatak (zadaca)...pita korisnika za godine, ako je mladji prekine program. Ako je stariji pozeli dobrodoslicu i pita ga da odabere jednu opciju. 1 za sabiranje 2 broja, 2 za oduzimanje, 3 za mnozenje, 4 za djeljenje, 5 za provjeru da li je broj paran ili neparan, 6 za racunanje prosjeka u skoli (5 predmeta), -1 za izlazak
+    //zadatak (zadaca)...pita korisnika za godine, ako je mladji prekine program. Ako je stariji pozeli dobrodoslicu i pita ga da odabere jednu opciju. 1 - za sabiranje 2 broja, 2 - za oduzimanje, 3 - za mnozenje, 4 - za djeljenje, 5 - za provjeru da li je broj paran ili neparan, 6 - za racunanje prosjeka u skoli (5 predmeta), -1 - za izlazak
     int godine;
     
     cout<<endl<< "Unesite godine: " ;
